@@ -1,0 +1,881 @@
+Region,Date,Frequency,Estimated Unemployment Rate (%),Estimated Employed,Estimated Labour Participation Rate (%),Area,Year,Month,Month_Name
+Andhra Pradesh,2019-01-31,Monthly,3.95,18044659,45.73,Rural,2019,1,Jan
+Andhra Pradesh,2019-02-28,Monthly,5.86,16948101,45.91,Rural,2019,2,Feb
+Andhra Pradesh,2019-03-31,Monthly,4.96,17567845,45.4,Rural,2019,3,Mar
+Andhra Pradesh,2019-04-30,Monthly,5.86,17379993,44.84,Rural,2019,4,Apr
+Andhra Pradesh,2019-05-31,Monthly,6.49,16754993,45.0,Rural,2019,5,May
+Andhra Pradesh,2019-06-30,Monthly,5.57,17553077,45.04,Rural,2019,6,Jun
+Andhra Pradesh,2019-07-31,Monthly,5.63,17583830,45.84,Rural,2019,7,Jul
+Andhra Pradesh,2019-08-31,Monthly,5.38,17806554,45.65,Rural,2019,8,Aug
+Andhra Pradesh,2019-09-30,Monthly,4.95,17481526,45.98,Rural,2019,9,Sep
+Andhra Pradesh,2019-10-31,Monthly,4.55,17707954,46.35,Rural,2019,10,Oct
+Andhra Pradesh,2019-11-30,Monthly,4.3,18695785,45.6,Rural,2019,11,Nov
+Andhra Pradesh,2019-12-31,Monthly,5.0,17684458,45.12,Rural,2019,12,Dec
+Andhra Pradesh,2020-01-31,Monthly,6.28,16906160,46.08,Rural,2020,1,Jan
+Andhra Pradesh,2020-02-29,Monthly,5.35,17270657,45.67,Rural,2020,2,Feb
+Andhra Pradesh,2020-03-31,Monthly,4.7,17791852,44.97,Rural,2020,3,Mar
+Andhra Pradesh,2020-04-30,Monthly,32.85,13322575,36.87,Rural,2020,4,Apr
+Andhra Pradesh,2020-05-31,Monthly,26.04,13471123,40.05,Rural,2020,5,May
+Andhra Pradesh,2020-06-30,Monthly,18.61,12982260,41.57,Rural,2020,6,Jun
+Andhra Pradesh,2020-07-31,Monthly,10.69,14589282,44.37,Rural,2020,7,Jul
+Andhra Pradesh,2020-08-31,Monthly,10.35,15278631,44.07,Rural,2020,8,Aug
+Andhra Pradesh,2020-09-30,Monthly,7.02,17072552,44.88,Rural,2020,9,Sep
+Andhra Pradesh,2020-10-31,Monthly,7.95,16375293,45.1,Rural,2020,10,Oct
+Andhra Pradesh,2019-01-31,Monthly,7.48,12274470,42.06,Urban,2019,1,Jan
+Andhra Pradesh,2019-02-28,Monthly,8.26,11931742,42.19,Urban,2019,2,Feb
+Andhra Pradesh,2019-03-31,Monthly,9.01,11637247,41.97,Urban,2019,3,Mar
+Andhra Pradesh,2019-04-30,Monthly,8.39,11818897,42.01,Urban,2019,4,Apr
+Andhra Pradesh,2019-05-31,Monthly,9.36,11907183,42.31,Urban,2019,5,May
+Andhra Pradesh,2019-06-30,Monthly,9.74,11823121,42.25,Urban,2019,6,Jun
+Andhra Pradesh,2019-07-31,Monthly,8.39,11867606,42.05,Urban,2019,7,Jul
+Andhra Pradesh,2019-08-31,Monthly,9.29,11977566,42.07,Urban,2019,8,Aug
+Andhra Pradesh,2019-09-30,Monthly,8.12,12106751,42.09,Urban,2019,9,Sep
+Andhra Pradesh,2019-10-31,Monthly,7.48,12290552,42.07,Urban,2019,10,Oct
+Andhra Pradesh,2019-11-30,Monthly,7.33,12483663,42.34,Urban,2019,11,Nov
+Andhra Pradesh,2019-12-31,Monthly,6.76,13048761,42.74,Urban,2019,12,Dec
+Andhra Pradesh,2020-01-31,Monthly,6.28,12705936,42.17,Urban,2020,1,Jan
+Andhra Pradesh,2020-02-29,Monthly,7.78,12299432,42.01,Urban,2020,2,Feb
+Andhra Pradesh,2020-03-31,Monthly,8.01,11952070,42.3,Urban,2020,3,Mar
+Andhra Pradesh,2020-04-30,Monthly,33.08,9768101,35.32,Urban,2020,4,Apr
+Andhra Pradesh,2020-05-31,Monthly,36.39,10003839,33.6,Urban,2020,5,May
+Andhra Pradesh,2020-06-30,Monthly,19.54,9650878,38.59,Urban,2020,6,Jun
+Andhra Pradesh,2020-07-31,Monthly,12.66,10528054,40.78,Urban,2020,7,Jul
+Andhra Pradesh,2020-08-31,Monthly,11.49,11166448,41.74,Urban,2020,8,Aug
+Andhra Pradesh,2020-09-30,Monthly,8.86,12190057,41.69,Urban,2020,9,Sep
+Andhra Pradesh,2020-10-31,Monthly,10.53,11464685,40.99,Urban,2020,10,Oct
+Assam,2019-01-31,Monthly,5.69,10286904,42.55,Rural,2019,1,Jan
+Assam,2019-02-28,Monthly,6.61,10350593,41.89,Rural,2019,2,Feb
+Assam,2019-03-31,Monthly,6.38,10265901,42.38,Rural,2019,3,Mar
+Assam,2019-04-30,Monthly,6.77,9766117,42.58,Rural,2019,4,Apr
+Assam,2019-05-31,Monthly,7.1,9665818,41.95,Rural,2019,5,May
+Assam,2019-06-30,Monthly,7.14,10065240,41.75,Rural,2019,6,Jun
+Assam,2019-07-31,Monthly,6.21,10361565,42.5,Rural,2019,7,Jul
+Assam,2019-08-31,Monthly,6.18,10391461,41.79,Rural,2019,8,Aug
+Assam,2019-09-30,Monthly,6.81,10144681,42.4,Rural,2019,9,Sep
+Assam,2019-10-31,Monthly,5.31,10420038,42.3,Rural,2019,10,Oct
+Assam,2019-11-30,Monthly,5.0,10896762,41.91,Rural,2019,11,Nov
+Assam,2019-12-31,Monthly,5.96,10388362,42.14,Rural,2019,12,Dec
+Assam,2020-01-31,Monthly,5.55,10480214,42.82,Rural,2020,1,Jan
+Assam,2020-02-29,Monthly,4.99,10742779,42.22,Rural,2020,2,Feb
+Assam,2020-03-31,Monthly,5.59,10694568,42.43,Rural,2020,3,Mar
+Assam,2020-04-30,Monthly,35.94,7643594,33.69,Rural,2020,4,Apr
+Assam,2020-05-31,Monthly,36.35,8091457,33.47,Rural,2020,5,May
+Assam,2020-06-30,Monthly,19.64,8038326,37.7,Rural,2020,6,Jun
+Assam,2020-07-31,Monthly,11.0,9009509,40.55,Rural,2020,7,Jul
+Assam,2020-08-31,Monthly,11.19,8783708,40.77,Rural,2020,8,Aug
+Assam,2020-09-30,Monthly,8.75,9675871,41.03,Rural,2020,9,Sep
+Assam,2020-10-31,Monthly,8.59,9429614,42.03,Rural,2020,10,Oct
+Assam,2019-01-31,Monthly,9.02,17270069,40.45,Urban,2019,1,Jan
+Assam,2019-02-28,Monthly,9.44,16921738,41.89,Urban,2019,2,Feb
+Assam,2019-03-31,Monthly,10.33,16426785,40.74,Urban,2019,3,Mar
+Assam,2019-04-30,Monthly,9.74,16337150,40.65,Urban,2019,4,Apr
+Assam,2019-05-31,Monthly,10.32,15694471,40.01,Urban,2019,5,May
+Assam,2019-06-30,Monthly,11.72,15187027,39.6,Urban,2019,6,Jun
+Assam,2019-07-31,Monthly,9.97,15879741,40.38,Urban,2019,7,Jul
+Assam,2019-08-31,Monthly,9.65,16141697,40.78,Urban,2019,8,Aug
+Assam,2019-09-30,Monthly,10.47,15791501,40.4,Urban,2019,9,Sep
+Assam,2019-10-31,Monthly,8.69,16572580,40.44,Urban,2019,10,Oct
+Assam,2019-11-30,Monthly,10.27,16305195,41.09,Urban,2019,11,Nov
+Assam,2019-12-31,Monthly,7.52,17983851,40.42,Urban,2019,12,Dec
+Assam,2020-01-31,Monthly,8.57,16664254,39.68,Urban,2020,1,Jan
+Assam,2020-02-29,Monthly,9.43,16536653,40.7,Urban,2020,2,Feb
+Assam,2020-03-31,Monthly,9.33,16433796,40.22,Urban,2020,3,Mar
+Assam,2020-04-30,Monthly,35.09,13956691,33.48,Urban,2020,4,Apr
+Assam,2020-05-31,Monthly,39.91,14238247,32.17,Urban,2020,5,May
+Assam,2020-06-30,Monthly,20.41,14362250,36.68,Urban,2020,6,Jun
+Assam,2020-07-31,Monthly,13.12,14267116,40.18,Urban,2020,7,Jul
+Assam,2020-08-31,Monthly,13.63,14288620,38.96,Urban,2020,8,Aug
+Assam,2020-09-30,Monthly,12.05,14787198,40.4,Urban,2020,9,Sep
+Assam,2020-10-31,Monthly,10.73,16264156,40.82,Urban,2020,10,Oct
+Bihar,2019-01-31,Monthly,5.95,7872667,39.33,Rural,2019,1,Jan
+Bihar,2019-02-28,Monthly,6.43,7669599,39.57,Rural,2019,2,Feb
+Bihar,2019-03-31,Monthly,6.39,7751119,40.15,Rural,2019,3,Mar
+Bihar,2019-04-30,Monthly,7.07,7783610,39.54,Rural,2019,4,Apr
+Bihar,2019-05-31,Monthly,7.16,7470824,39.39,Rural,2019,5,May
+Bihar,2019-06-30,Monthly,7.21,7369615,39.64,Rural,2019,6,Jun
+Bihar,2019-07-31,Monthly,8.02,7520925,39.88,Rural,2019,7,Jul
+Bihar,2019-08-31,Monthly,7.65,7343597,39.56,Rural,2019,8,Aug
+Bihar,2019-09-30,Monthly,7.09,7708284,39.02,Rural,2019,9,Sep
+Bihar,2019-10-31,Monthly,6.35,7680523,39.35,Rural,2019,10,Oct
+Bihar,2019-11-30,Monthly,5.66,8100862,39.77,Rural,2019,11,Nov
+Bihar,2019-12-31,Monthly,5.83,7977406,39.74,Rural,2019,12,Dec
+Bihar,2020-01-31,Monthly,5.82,8050571,39.41,Rural,2020,1,Jan
+Bihar,2020-02-29,Monthly,7.14,7475331,39.31,Rural,2020,2,Feb
+Bihar,2020-03-31,Monthly,6.62,7452738,39.65,Rural,2020,3,Mar
+Bihar,2020-04-30,Monthly,35.86,6141261,30.4,Rural,2020,4,Apr
+Bihar,2020-05-31,Monthly,38.01,5961287,30.91,Rural,2020,5,May
+Bihar,2020-06-30,Monthly,18.04,6070333,35.9,Rural,2020,6,Jun
+Bihar,2020-07-31,Monthly,12.41,6364926,37.69,Rural,2020,7,Jul
+Bihar,2020-08-31,Monthly,11.3,6449446,38.33,Rural,2020,8,Aug
+Bihar,2020-09-30,Monthly,8.34,7106793,39.48,Rural,2020,9,Sep
+Bihar,2020-10-31,Monthly,7.23,7683428,39.05,Rural,2020,10,Oct
+Bihar,2019-01-31,Monthly,8.78,7461743,43.09,Urban,2019,1,Jan
+Bihar,2019-02-28,Monthly,9.54,6966710,44.19,Urban,2019,2,Feb
+Bihar,2019-03-31,Monthly,10.52,6882760,44.24,Urban,2019,3,Mar
+Bihar,2019-04-30,Monthly,10.56,6893689,43.65,Urban,2019,4,Apr
+Bihar,2019-05-31,Monthly,11.22,6849666,43.32,Urban,2019,5,May
+Bihar,2019-06-30,Monthly,11.43,6650645,43.69,Urban,2019,6,Jun
+Bihar,2019-07-31,Monthly,11.44,6587218,43.49,Urban,2019,7,Jul
+Bihar,2019-08-31,Monthly,10.78,7057059,44.04,Urban,2019,8,Aug
+Bihar,2019-09-30,Monthly,10.4,7139744,43.34,Urban,2019,9,Sep
+Bihar,2019-10-31,Monthly,11.3,6810546,43.81,Urban,2019,10,Oct
+Bihar,2019-11-30,Monthly,10.94,6851913,43.34,Urban,2019,11,Nov
+Bihar,2019-12-31,Monthly,9.47,7212845,44.04,Urban,2019,12,Dec
+Bihar,2020-01-31,Monthly,9.14,7222892,43.41,Urban,2020,1,Jan
+Bihar,2020-02-29,Monthly,10.56,6731471,42.93,Urban,2020,2,Feb
+Bihar,2020-03-31,Monthly,10.54,6830887,44.4,Urban,2020,3,Mar
+Bihar,2020-04-30,Monthly,37.96,6249276,35.52,Urban,2020,4,Apr
+Bihar,2020-05-31,Monthly,38.11,6257254,36.02,Urban,2020,5,May
+Bihar,2020-06-30,Monthly,25.04,6277215,39.5,Urban,2020,6,Jun
+Bihar,2020-07-31,Monthly,13.45,6402549,43.16,Urban,2020,7,Jul
+Bihar,2020-08-31,Monthly,16.2,6067733,42.49,Urban,2020,8,Aug
+Bihar,2020-09-30,Monthly,11.75,6733389,43.25,Urban,2020,9,Sep
+Bihar,2020-10-31,Monthly,12.08,6528700,43.17,Urban,2020,10,Oct
+Chhattisgarh,2019-01-31,Monthly,3.79,16686701,45.18,Rural,2019,1,Jan
+Chhattisgarh,2019-02-28,Monthly,3.16,17031514,45.51,Rural,2019,2,Feb
+Chhattisgarh,2019-03-31,Monthly,4.99,16041079,45.68,Rural,2019,3,Mar
+Chhattisgarh,2019-04-30,Monthly,4.56,16277180,46.09,Rural,2019,4,Apr
+Chhattisgarh,2019-05-31,Monthly,4.6,15843197,46.02,Rural,2019,5,May
+Chhattisgarh,2019-06-30,Monthly,5.75,15402733,45.98,Rural,2019,6,Jun
+Chhattisgarh,2019-07-31,Monthly,5.39,15737524,44.93,Rural,2019,7,Jul
+Chhattisgarh,2019-08-31,Monthly,4.99,15875394,45.58,Rural,2019,8,Aug
+Chhattisgarh,2019-09-30,Monthly,4.96,15935557,45.66,Rural,2019,9,Sep
+Chhattisgarh,2019-10-31,Monthly,4.25,16802425,45.76,Rural,2019,10,Oct
+Chhattisgarh,2019-11-30,Monthly,2.34,17190108,45.61,Rural,2019,11,Nov
+Chhattisgarh,2019-12-31,Monthly,3.25,16642628,45.79,Rural,2019,12,Dec
+Chhattisgarh,2020-01-31,Monthly,2.58,16687083,45.9,Rural,2020,1,Jan
+Chhattisgarh,2020-02-29,Monthly,3.0,16776229,45.83,Rural,2020,2,Feb
+Chhattisgarh,2020-03-31,Monthly,4.02,16630341,46.01,Rural,2020,3,Mar
+Chhattisgarh,2020-04-30,Monthly,24.21,11667649,39.29,Rural,2020,4,Apr
+Chhattisgarh,2020-05-31,Monthly,23.75,11688583,39.5,Rural,2020,5,May
+Chhattisgarh,2020-06-30,Monthly,16.22,11569347,42.59,Rural,2020,6,Jun
+Chhattisgarh,2020-07-31,Monthly,9.73,14162813,44.1,Rural,2020,7,Jul
+Chhattisgarh,2020-08-31,Monthly,10.15,13909213,43.82,Rural,2020,8,Aug
+Chhattisgarh,2020-09-30,Monthly,5.86,15500599,44.77,Rural,2020,9,Sep
+Chhattisgarh,2020-10-31,Monthly,4.48,16219924,45.66,Rural,2020,10,Oct
+Chhattisgarh,2019-01-31,Monthly,6.03,7498265,43.58,Urban,2019,1,Jan
+Chhattisgarh,2019-02-28,Monthly,7.65,6808960,44.43,Urban,2019,2,Feb
+Chhattisgarh,2019-03-31,Monthly,7.12,6978715,43.0,Urban,2019,3,Mar
+Chhattisgarh,2019-04-30,Monthly,6.15,7086829,43.41,Urban,2019,4,Apr
+Chhattisgarh,2019-05-31,Monthly,6.26,7197983,43.72,Urban,2019,5,May
+Chhattisgarh,2019-06-30,Monthly,8.02,7014262,44.33,Urban,2019,6,Jun
+Chhattisgarh,2019-07-31,Monthly,6.38,7265175,43.98,Urban,2019,7,Jul
+Chhattisgarh,2019-08-31,Monthly,7.52,6973379,44.2,Urban,2019,8,Aug
+Chhattisgarh,2019-09-30,Monthly,5.97,7275285,43.71,Urban,2019,9,Sep
+Chhattisgarh,2019-10-31,Monthly,6.36,7189167,44.74,Urban,2019,10,Oct
+Chhattisgarh,2019-11-30,Monthly,5.53,7313970,44.03,Urban,2019,11,Nov
+Chhattisgarh,2019-12-31,Monthly,5.02,7400150,43.78,Urban,2019,12,Dec
+Chhattisgarh,2020-01-31,Monthly,5.02,7721437,43.76,Urban,2020,1,Jan
+Chhattisgarh,2020-02-29,Monthly,5.84,7325711,43.65,Urban,2020,2,Feb
+Chhattisgarh,2020-03-31,Monthly,6.44,7393532,43.95,Urban,2020,3,Mar
+Chhattisgarh,2020-04-30,Monthly,33.98,5662067,35.43,Urban,2020,4,Apr
+Chhattisgarh,2020-05-31,Monthly,37.28,5531351,35.88,Urban,2020,5,May
+Chhattisgarh,2020-06-30,Monthly,19.29,5580272,39.79,Urban,2020,6,Jun
+Chhattisgarh,2020-07-31,Monthly,11.15,6261514,42.5,Urban,2020,7,Jul
+Chhattisgarh,2020-08-31,Monthly,9.79,6505647,42.93,Urban,2020,8,Aug
+Chhattisgarh,2020-09-30,Monthly,7.92,6765023,43.28,Urban,2020,9,Sep
+Chhattisgarh,2020-10-31,Monthly,6.54,7291922,43.96,Urban,2020,10,Oct
+Delhi,2019-01-31,Monthly,5.52,14161392,42.35,Rural,2019,1,Jan
+Delhi,2019-02-28,Monthly,7.1,13520352,42.52,Rural,2019,2,Feb
+Delhi,2019-03-31,Monthly,7.57,13251952,43.4,Rural,2019,3,Mar
+Delhi,2019-04-30,Monthly,7.88,12631344,42.6,Rural,2019,4,Apr
+Delhi,2019-05-31,Monthly,7.78,13145488,42.64,Rural,2019,5,May
+Delhi,2019-06-30,Monthly,8.25,12605239,43.6,Rural,2019,6,Jun
+Delhi,2019-07-31,Monthly,7.81,13135237,43.14,Rural,2019,7,Jul
+Delhi,2019-08-31,Monthly,6.45,13402292,42.36,Rural,2019,8,Aug
+Delhi,2019-09-30,Monthly,7.91,12852325,42.43,Rural,2019,9,Sep
+Delhi,2019-10-31,Monthly,7.07,13092647,42.68,Rural,2019,10,Oct
+Delhi,2019-11-30,Monthly,7.12,13264032,42.8,Rural,2019,11,Nov
+Delhi,2019-12-31,Monthly,5.59,13480227,43.22,Rural,2019,12,Dec
+Delhi,2020-01-31,Monthly,6.89,13284532,43.26,Rural,2020,1,Jan
+Delhi,2020-02-29,Monthly,6.99,12943071,42.86,Rural,2020,2,Feb
+Delhi,2020-03-31,Monthly,6.62,13560705,42.44,Rural,2020,3,Mar
+Delhi,2020-04-30,Monthly,26.99,10646265,37.41,Rural,2020,4,Apr
+Delhi,2020-05-31,Monthly,30.85,10192236,35.96,Rural,2020,5,May
+Delhi,2020-06-30,Monthly,18.03,10499085,40.34,Rural,2020,6,Jun
+Delhi,2020-07-31,Monthly,12.07,11079195,41.35,Rural,2020,7,Jul
+Delhi,2020-08-31,Monthly,11.32,11414008,42.04,Rural,2020,8,Aug
+Delhi,2020-09-30,Monthly,9.08,12464386,43.31,Rural,2020,9,Sep
+Delhi,2020-10-31,Monthly,8.97,12738514,42.69,Rural,2020,10,Oct
+Delhi,2019-01-31,Monthly,11.57,7495826,44.2,Urban,2019,1,Jan
+Delhi,2019-02-28,Monthly,10.84,7919572,43.7,Urban,2019,2,Feb
+Delhi,2019-03-31,Monthly,10.54,8029911,43.61,Urban,2019,3,Mar
+Delhi,2019-04-30,Monthly,13.05,7093106,43.87,Urban,2019,4,Apr
+Delhi,2019-05-31,Monthly,11.73,7623356,43.49,Urban,2019,5,May
+Delhi,2019-06-30,Monthly,12.44,7482248,42.73,Urban,2019,6,Jun
+Delhi,2019-07-31,Monthly,11.05,7776425,43.14,Urban,2019,7,Jul
+Delhi,2019-08-31,Monthly,10.63,7756331,43.55,Urban,2019,8,Aug
+Delhi,2019-09-30,Monthly,10.98,7683970,43.55,Urban,2019,9,Sep
+Delhi,2019-10-31,Monthly,11.21,7560838,43.6,Urban,2019,10,Oct
+Delhi,2019-11-30,Monthly,11.55,7315218,44.11,Urban,2019,11,Nov
+Delhi,2019-12-31,Monthly,9.72,8241011,43.86,Urban,2019,12,Dec
+Delhi,2020-01-31,Monthly,10.28,7676034,43.22,Urban,2020,1,Jan
+Delhi,2020-02-29,Monthly,10.73,7795858,43.72,Urban,2020,2,Feb
+Delhi,2020-03-31,Monthly,11.14,7510422,43.65,Urban,2020,3,Mar
+Delhi,2020-04-30,Monthly,39.96,6694089,34.81,Urban,2020,4,Apr
+Delhi,2020-05-31,Monthly,35.06,6999386,36.6,Urban,2020,5,May
+Delhi,2020-06-30,Monthly,21.06,6844558,40.88,Urban,2020,6,Jun
+Delhi,2020-07-31,Monthly,16.3,7035022,42.11,Urban,2020,7,Jul
+Delhi,2020-08-31,Monthly,16.52,6945047,41.6,Urban,2020,8,Aug
+Delhi,2020-09-30,Monthly,13.3,6869201,43.68,Urban,2020,9,Sep
+Delhi,2020-10-31,Monthly,12.5,7074024,42.81,Urban,2020,10,Oct
+Gujarat,2019-01-31,Monthly,2.5,10095607,44.68,Rural,2019,1,Jan
+Gujarat,2019-02-28,Monthly,4.02,10138263,44.02,Rural,2019,2,Feb
+Gujarat,2019-03-31,Monthly,3.71,10111489,44.86,Rural,2019,3,Mar
+Gujarat,2019-04-30,Monthly,3.94,10185814,44.02,Rural,2019,4,Apr
+Gujarat,2019-05-31,Monthly,4.82,9659903,43.9,Rural,2019,5,May
+Gujarat,2019-06-30,Monthly,3.99,9863861,44.07,Rural,2019,6,Jun
+Gujarat,2019-07-31,Monthly,3.69,10091931,44.64,Rural,2019,7,Jul
+Gujarat,2019-08-31,Monthly,5.08,9597143,43.53,Rural,2019,8,Aug
+Gujarat,2019-09-30,Monthly,4.06,10072684,44.36,Rural,2019,9,Sep
+Gujarat,2019-10-31,Monthly,4.11,10078388,44.39,Rural,2019,10,Oct
+Gujarat,2019-11-30,Monthly,3.02,10060507,44.38,Rural,2019,11,Nov
+Gujarat,2019-12-31,Monthly,4.42,9672156,44.67,Rural,2019,12,Dec
+Gujarat,2020-01-31,Monthly,3.34,10407579,44.33,Rural,2020,1,Jan
+Gujarat,2020-02-29,Monthly,2.76,10134045,44.44,Rural,2020,2,Feb
+Gujarat,2020-03-31,Monthly,4.05,9783903,44.01,Rural,2020,3,Mar
+Gujarat,2020-04-30,Monthly,29.6,7046569,37.19,Rural,2020,4,Apr
+Gujarat,2020-05-31,Monthly,22.91,7216178,39.35,Rural,2020,5,May
+Gujarat,2020-06-30,Monthly,15.62,7181060,40.29,Rural,2020,6,Jun
+Gujarat,2020-07-31,Monthly,8.08,8586973,43.17,Rural,2020,7,Jul
+Gujarat,2020-08-31,Monthly,8.77,8505591,42.39,Rural,2020,8,Aug
+Gujarat,2020-09-30,Monthly,4.88,9727855,44.36,Rural,2020,9,Sep
+Gujarat,2020-10-31,Monthly,5.54,9639252,43.96,Rural,2020,10,Oct
+Gujarat,2019-01-31,Monthly,5.68,7121073,39.11,Urban,2019,1,Jan
+Gujarat,2019-02-28,Monthly,7.15,6936086,39.68,Urban,2019,2,Feb
+Gujarat,2019-03-31,Monthly,5.8,7107174,39.82,Urban,2019,3,Mar
+Gujarat,2019-04-30,Monthly,6.39,7248222,40.43,Urban,2019,4,Apr
+Gujarat,2019-05-31,Monthly,5.77,7439383,39.56,Urban,2019,5,May
+Gujarat,2019-06-30,Monthly,7.19,6900856,40.11,Urban,2019,6,Jun
+Gujarat,2019-07-31,Monthly,5.65,7146322,40.18,Urban,2019,7,Jul
+Gujarat,2019-08-31,Monthly,6.37,7036751,39.97,Urban,2019,8,Aug
+Gujarat,2019-09-30,Monthly,6.65,7210906,39.77,Urban,2019,9,Sep
+Gujarat,2019-10-31,Monthly,5.95,7345477,40.15,Urban,2019,10,Oct
+Gujarat,2019-11-30,Monthly,5.05,7449101,39.97,Urban,2019,11,Nov
+Gujarat,2019-12-31,Monthly,5.47,7222531,39.8,Urban,2019,12,Dec
+Gujarat,2020-01-31,Monthly,5.81,7087165,39.77,Urban,2020,1,Jan
+Gujarat,2020-02-29,Monthly,4.96,7661907,40.14,Urban,2020,2,Feb
+Gujarat,2020-03-31,Monthly,6.69,7250412,39.69,Urban,2020,3,Mar
+Gujarat,2020-04-30,Monthly,27.4,5418345,33.37,Urban,2020,4,Apr
+Gujarat,2020-05-31,Monthly,25.0,5619347,34.55,Urban,2020,5,May
+Gujarat,2020-06-30,Monthly,15.45,5641289,36.43,Urban,2020,6,Jun
+Gujarat,2020-07-31,Monthly,11.18,6188288,38.65,Urban,2020,7,Jul
+Gujarat,2020-08-31,Monthly,10.54,6395278,38.63,Urban,2020,8,Aug
+Gujarat,2020-09-30,Monthly,9.24,6520454,38.7,Urban,2020,9,Sep
+Gujarat,2020-10-31,Monthly,7.88,7047805,39.33,Urban,2020,10,Oct
+Haryana,2019-01-31,Monthly,6.1,12549695,41.66,Rural,2019,1,Jan
+Haryana,2019-02-28,Monthly,6.11,12689330,40.97,Rural,2019,2,Feb
+Haryana,2019-03-31,Monthly,6.16,12966997,40.86,Rural,2019,3,Mar
+Haryana,2019-04-30,Monthly,8.31,12333965,41.26,Rural,2019,4,Apr
+Haryana,2019-05-31,Monthly,9.4,11369179,41.08,Rural,2019,5,May
+Haryana,2019-06-30,Monthly,8.22,12125671,41.54,Rural,2019,6,Jun
+Haryana,2019-07-31,Monthly,7.07,12241080,41.37,Rural,2019,7,Jul
+Haryana,2019-08-31,Monthly,7.34,12586670,41.12,Rural,2019,8,Aug
+Haryana,2019-09-30,Monthly,7.02,12853593,41.27,Rural,2019,9,Sep
+Haryana,2019-10-31,Monthly,7.77,12361146,41.11,Rural,2019,10,Oct
+Haryana,2019-11-30,Monthly,6.83,12365506,41.19,Rural,2019,11,Nov
+Haryana,2019-12-31,Monthly,6.64,12716538,40.74,Rural,2019,12,Dec
+Haryana,2020-01-31,Monthly,6.12,13133478,41.41,Rural,2020,1,Jan
+Haryana,2020-02-29,Monthly,6.55,12975676,41.19,Rural,2020,2,Feb
+Haryana,2020-03-31,Monthly,7.64,12302721,41.78,Rural,2020,3,Mar
+Haryana,2020-04-30,Monthly,25.71,9713922,35.13,Rural,2020,4,Apr
+Haryana,2020-05-31,Monthly,34.19,9690522,33.33,Rural,2020,5,May
+Haryana,2020-06-30,Monthly,18.13,9910641,37.36,Rural,2020,6,Jun
+Haryana,2020-07-31,Monthly,14.28,9894866,39.25,Rural,2020,7,Jul
+Haryana,2020-08-31,Monthly,11.66,10843909,40.32,Rural,2020,8,Aug
+Haryana,2020-09-30,Monthly,9.84,11665128,40.95,Rural,2020,9,Sep
+Haryana,2020-10-31,Monthly,9.57,11710401,41.34,Rural,2020,10,Oct
+Haryana,2019-01-31,Monthly,10.4,16833479,39.33,Urban,2019,1,Jan
+Haryana,2019-02-28,Monthly,10.38,17338110,39.47,Urban,2019,2,Feb
+Haryana,2019-03-31,Monthly,11.21,16046489,39.78,Urban,2019,3,Mar
+Haryana,2019-04-30,Monthly,12.08,16497520,38.67,Urban,2019,4,Apr
+Haryana,2019-05-31,Monthly,11.07,16750453,39.57,Urban,2019,5,May
+Haryana,2019-06-30,Monthly,12.89,15204203,39.35,Urban,2019,6,Jun
+Haryana,2019-07-31,Monthly,12.03,16508470,39.9,Urban,2019,7,Jul
+Haryana,2019-08-31,Monthly,12.32,16311905,38.69,Urban,2019,8,Aug
+Haryana,2019-09-30,Monthly,10.92,16500563,39.35,Urban,2019,9,Sep
+Haryana,2019-10-31,Monthly,10.57,16984303,39.34,Urban,2019,10,Oct
+Haryana,2019-11-30,Monthly,11.22,16081648,38.66,Urban,2019,11,Nov
+Haryana,2019-12-31,Monthly,10.61,16397658,39.06,Urban,2019,12,Dec
+Haryana,2020-01-31,Monthly,11.44,16584981,39.24,Urban,2020,1,Jan
+Haryana,2020-02-29,Monthly,9.77,17879962,39.11,Urban,2020,2,Feb
+Haryana,2020-03-31,Monthly,10.32,16701149,38.39,Urban,2020,3,Mar
+Haryana,2020-04-30,Monthly,38.52,14559428,31.29,Urban,2020,4,Apr
+Haryana,2020-05-31,Monthly,37.28,15337603,31.77,Urban,2020,5,May
+Haryana,2020-06-30,Monthly,21.29,14861696,36.56,Urban,2020,6,Jun
+Haryana,2020-07-31,Monthly,15.89,15367274,37.52,Urban,2020,7,Jul
+Haryana,2020-08-31,Monthly,15.68,14676558,38.14,Urban,2020,8,Aug
+Haryana,2020-09-30,Monthly,11.49,16734270,39.53,Urban,2020,9,Sep
+Haryana,2020-10-31,Monthly,12.71,15930531,38.94,Urban,2020,10,Oct
+Jharkhand,2019-01-31,Monthly,7.13,15593102,44.37,Rural,2019,1,Jan
+Jharkhand,2019-02-28,Monthly,6.69,15178071,44.07,Rural,2019,2,Feb
+Jharkhand,2019-03-31,Monthly,7.3,14967833,44.81,Rural,2019,3,Mar
+Jharkhand,2019-04-30,Monthly,7.66,15147404,44.08,Rural,2019,4,Apr
+Jharkhand,2019-05-31,Monthly,8.91,14329534,43.83,Rural,2019,5,May
+Jharkhand,2019-06-30,Monthly,8.34,14378490,44.08,Rural,2019,6,Jun
+Jharkhand,2019-07-31,Monthly,8.13,14945231,43.12,Rural,2019,7,Jul
+Jharkhand,2019-08-31,Monthly,8.72,14894834,43.65,Rural,2019,8,Aug
+Jharkhand,2019-09-30,Monthly,7.13,15085818,44.07,Rural,2019,9,Sep
+Jharkhand,2019-10-31,Monthly,8.75,14744130,44.08,Rural,2019,10,Oct
+Jharkhand,2019-11-30,Monthly,6.88,15276542,44.1,Rural,2019,11,Nov
+Jharkhand,2019-12-31,Monthly,6.38,15530090,44.1,Rural,2019,12,Dec
+Jharkhand,2020-01-31,Monthly,6.41,15719063,43.98,Rural,2020,1,Jan
+Jharkhand,2020-02-29,Monthly,7.9,14693218,44.34,Rural,2020,2,Feb
+Jharkhand,2020-03-31,Monthly,8.55,14249097,44.46,Rural,2020,3,Mar
+Jharkhand,2020-04-30,Monthly,37.38,12271760,35.06,Rural,2020,4,Apr
+Jharkhand,2020-05-31,Monthly,37.39,12002985,35.81,Rural,2020,5,May
+Jharkhand,2020-06-30,Monthly,22.19,12085061,40.3,Rural,2020,6,Jun
+Jharkhand,2020-07-31,Monthly,14.37,11815502,42.69,Rural,2020,7,Jul
+Jharkhand,2020-08-31,Monthly,10.9,13868036,42.94,Rural,2020,8,Aug
+Jharkhand,2020-09-30,Monthly,9.35,14422921,43.46,Rural,2020,9,Sep
+Jharkhand,2020-10-31,Monthly,10.09,13714182,43.74,Rural,2020,10,Oct
+Jharkhand,2019-01-31,Monthly,10.42,18367232,46.2,Urban,2019,1,Jan
+Jharkhand,2019-02-28,Monthly,11.23,18060483,45.3,Urban,2019,2,Feb
+Jharkhand,2019-03-31,Monthly,12.35,16909697,46.32,Urban,2019,3,Mar
+Jharkhand,2019-04-30,Monthly,11.45,18048603,45.38,Urban,2019,4,Apr
+Jharkhand,2019-05-31,Monthly,11.55,17715755,46.77,Urban,2019,5,May
+Jharkhand,2019-06-30,Monthly,13.24,16835725,45.96,Urban,2019,6,Jun
+Jharkhand,2019-07-31,Monthly,11.5,17602733,45.74,Urban,2019,7,Jul
+Jharkhand,2019-08-31,Monthly,13.08,16770871,46.52,Urban,2019,8,Aug
+Jharkhand,2019-09-30,Monthly,12.03,17603101,45.7,Urban,2019,9,Sep
+Jharkhand,2019-10-31,Monthly,11.06,18280833,45.7,Urban,2019,10,Oct
+Jharkhand,2019-11-30,Monthly,11.29,17627538,45.85,Urban,2019,11,Nov
+Jharkhand,2019-12-31,Monthly,11.32,17562711,45.82,Urban,2019,12,Dec
+Jharkhand,2020-01-31,Monthly,9.76,18682215,46.06,Urban,2020,1,Jan
+Jharkhand,2020-02-29,Monthly,11.17,18207526,45.52,Urban,2020,2,Feb
+Jharkhand,2020-03-31,Monthly,12.27,16853276,45.47,Urban,2020,3,Mar
+Jharkhand,2020-04-30,Monthly,38.54,15562751,37.68,Urban,2020,4,Apr
+Jharkhand,2020-05-31,Monthly,31.26,16286629,40.06,Urban,2020,5,May
+Jharkhand,2020-06-30,Monthly,23.56,16169616,42.24,Urban,2020,6,Jun
+Jharkhand,2020-07-31,Monthly,16.49,15947153,45.41,Urban,2020,7,Jul
+Jharkhand,2020-08-31,Monthly,17.94,16324374,44.83,Urban,2020,8,Aug
+Jharkhand,2020-09-30,Monthly,12.9,16203623,45.36,Urban,2020,9,Sep
+Jharkhand,2020-10-31,Monthly,13.11,16949756,45.02,Urban,2020,10,Oct
+Karnataka,2019-01-31,Monthly,4.4,7919349,42.24,Rural,2019,1,Jan
+Karnataka,2019-02-28,Monthly,5.21,7567356,40.9,Rural,2019,2,Feb
+Karnataka,2019-03-31,Monthly,4.49,7511485,42.22,Rural,2019,3,Mar
+Karnataka,2019-04-30,Monthly,6.08,7251811,41.64,Rural,2019,4,Apr
+Karnataka,2019-05-31,Monthly,5.87,7403700,41.8,Rural,2019,5,May
+Karnataka,2019-06-30,Monthly,5.7,7552760,42.14,Rural,2019,6,Jun
+Karnataka,2019-07-31,Monthly,5.69,7521738,42.86,Rural,2019,7,Jul
+Karnataka,2019-08-31,Monthly,5.53,7290974,42.48,Rural,2019,8,Aug
+Karnataka,2019-09-30,Monthly,5.13,7670278,42.24,Rural,2019,9,Sep
+Karnataka,2019-10-31,Monthly,5.0,7570825,41.6,Rural,2019,10,Oct
+Karnataka,2019-11-30,Monthly,3.86,7941787,42.18,Rural,2019,11,Nov
+Karnataka,2019-12-31,Monthly,4.17,7971682,42.19,Rural,2019,12,Dec
+Karnataka,2020-01-31,Monthly,4.52,7832499,42.63,Rural,2020,1,Jan
+Karnataka,2020-02-29,Monthly,4.47,7654382,42.44,Rural,2020,2,Feb
+Karnataka,2020-03-31,Monthly,5.64,7596666,42.29,Rural,2020,3,Mar
+Karnataka,2020-04-30,Monthly,33.76,5530417,33.68,Rural,2020,4,Apr
+Karnataka,2020-05-31,Monthly,29.47,5725753,34.04,Rural,2020,5,May
+Karnataka,2020-06-30,Monthly,15.21,5616341,38.84,Rural,2020,6,Jun
+Karnataka,2020-07-31,Monthly,9.49,6708346,40.67,Rural,2020,7,Jul
+Karnataka,2020-08-31,Monthly,8.92,6912302,40.33,Rural,2020,8,Aug
+Karnataka,2020-09-30,Monthly,6.52,7218454,41.52,Rural,2020,9,Sep
+Karnataka,2020-10-31,Monthly,7.05,7186653,40.86,Rural,2020,10,Oct
+Karnataka,2019-01-31,Monthly,7.33,17623034,43.2,Urban,2019,1,Jan
+Karnataka,2019-02-28,Monthly,7.11,17709842,43.02,Urban,2019,2,Feb
+Karnataka,2019-03-31,Monthly,7.21,17200717,42.75,Urban,2019,3,Mar
+Karnataka,2019-04-30,Monthly,7.54,16844967,42.47,Urban,2019,4,Apr
+Karnataka,2019-05-31,Monthly,8.47,16369866,43.42,Urban,2019,5,May
+Karnataka,2019-06-30,Monthly,9.37,15861196,43.17,Urban,2019,6,Jun
+Karnataka,2019-07-31,Monthly,7.77,16599758,42.77,Urban,2019,7,Jul
+Karnataka,2019-08-31,Monthly,7.48,17098866,43.08,Urban,2019,8,Aug
+Karnataka,2019-09-30,Monthly,7.31,17236570,42.99,Urban,2019,9,Sep
+Karnataka,2019-10-31,Monthly,8.1,16798029,42.83,Urban,2019,10,Oct
+Karnataka,2019-11-30,Monthly,7.05,17770723,42.69,Urban,2019,11,Nov
+Karnataka,2019-12-31,Monthly,7.59,17410147,43.02,Urban,2019,12,Dec
+Karnataka,2020-01-31,Monthly,6.55,17679668,42.6,Urban,2020,1,Jan
+Karnataka,2020-02-29,Monthly,7.96,17229529,42.74,Urban,2020,2,Feb
+Karnataka,2020-03-31,Monthly,6.92,17662009,42.59,Urban,2020,3,Mar
+Karnataka,2020-04-30,Monthly,29.19,13789203,36.97,Urban,2020,4,Apr
+Karnataka,2020-05-31,Monthly,27.0,13722902,37.98,Urban,2020,5,May
+Karnataka,2020-06-30,Monthly,17.85,13419936,40.33,Urban,2020,6,Jun
+Karnataka,2020-07-31,Monthly,11.67,14969770,41.82,Urban,2020,7,Jul
+Karnataka,2020-08-31,Monthly,12.37,14589219,40.92,Urban,2020,8,Aug
+Karnataka,2020-09-30,Monthly,8.93,16244352,43.0,Urban,2020,9,Sep
+Karnataka,2020-10-31,Monthly,9.68,15702589,42.89,Urban,2020,10,Oct
+Kerala,2019-01-31,Monthly,2.76,21244268,38.28,Rural,2019,1,Jan
+Kerala,2019-02-28,Monthly,3.05,21454859,38.61,Rural,2019,2,Feb
+Kerala,2019-03-31,Monthly,3.95,21389754,38.06,Rural,2019,3,Mar
+Kerala,2019-04-30,Monthly,4.48,20384052,39.53,Rural,2019,4,Apr
+Kerala,2019-05-31,Monthly,5.23,20762956,38.2,Rural,2019,5,May
+Kerala,2019-06-30,Monthly,5.02,20569077,39.46,Rural,2019,6,Jun
+Kerala,2019-07-31,Monthly,4.07,20915591,38.66,Rural,2019,7,Jul
+Kerala,2019-08-31,Monthly,3.61,21152343,38.94,Rural,2019,8,Aug
+Kerala,2019-09-30,Monthly,3.74,21356184,38.32,Rural,2019,9,Sep
+Kerala,2019-10-31,Monthly,4.19,21137087,38.2,Rural,2019,10,Oct
+Kerala,2019-11-30,Monthly,2.46,22419671,38.56,Rural,2019,11,Nov
+Kerala,2019-12-31,Monthly,3.05,21872668,39.0,Rural,2019,12,Dec
+Kerala,2020-01-31,Monthly,4.5,20081322,38.84,Rural,2020,1,Jan
+Kerala,2020-02-29,Monthly,3.09,21828647,38.83,Rural,2020,2,Feb
+Kerala,2020-03-31,Monthly,4.23,20170350,39.07,Rural,2020,3,Mar
+Kerala,2020-04-30,Monthly,25.37,14707688,31.66,Rural,2020,4,Apr
+Kerala,2020-05-31,Monthly,32.64,14987593,30.12,Rural,2020,5,May
+Kerala,2020-06-30,Monthly,15.52,15460295,36.48,Rural,2020,6,Jun
+Kerala,2020-07-31,Monthly,9.04,17830378,37.3,Rural,2020,7,Jul
+Kerala,2020-08-31,Monthly,10.0,17704097,37.12,Rural,2020,8,Aug
+Kerala,2020-09-30,Monthly,5.16,19814093,37.95,Rural,2020,9,Sep
+Kerala,2020-10-31,Monthly,5.46,20201172,38.07,Rural,2020,10,Oct
+Kerala,2019-01-31,Monthly,6.61,8695760,44.46,Urban,2019,1,Jan
+Kerala,2019-02-28,Monthly,5.43,8808308,44.06,Urban,2019,2,Feb
+Kerala,2019-03-31,Monthly,5.6,8589940,44.18,Urban,2019,3,Mar
+Kerala,2019-04-30,Monthly,6.25,8891775,44.79,Urban,2019,4,Apr
+Kerala,2019-05-31,Monthly,5.43,8864134,44.32,Urban,2019,5,May
+Kerala,2019-06-30,Monthly,6.06,8774177,44.52,Urban,2019,6,Jun
+Kerala,2019-07-31,Monthly,6.84,8577211,44.07,Urban,2019,7,Jul
+Kerala,2019-08-31,Monthly,6.09,8461137,45.18,Urban,2019,8,Aug
+Kerala,2019-09-30,Monthly,5.48,8646943,44.42,Urban,2019,9,Sep
+Kerala,2019-10-31,Monthly,5.05,9061406,44.46,Urban,2019,10,Oct
+Kerala,2019-11-30,Monthly,5.14,9202750,44.29,Urban,2019,11,Nov
+Kerala,2019-12-31,Monthly,5.28,8795664,45.06,Urban,2019,12,Dec
+Kerala,2020-01-31,Monthly,5.43,8822713,45.5,Urban,2020,1,Jan
+Kerala,2020-02-29,Monthly,4.6,9002004,44.49,Urban,2020,2,Feb
+Kerala,2020-03-31,Monthly,6.54,8695703,44.45,Urban,2020,3,Mar
+Kerala,2020-04-30,Monthly,33.43,6656937,36.34,Urban,2020,4,Apr
+Kerala,2020-05-31,Monthly,25.26,6519290,38.79,Urban,2020,5,May
+Kerala,2020-06-30,Monthly,17.23,6683574,41.2,Urban,2020,6,Jun
+Kerala,2020-07-31,Monthly,10.16,7568322,43.25,Urban,2020,7,Jul
+Kerala,2020-08-31,Monthly,10.05,7628287,42.84,Urban,2020,8,Aug
+Kerala,2020-09-30,Monthly,7.68,8510800,44.16,Urban,2020,9,Sep
+Kerala,2020-10-31,Monthly,8.29,8098792,43.48,Urban,2020,10,Oct
+Madhya Pradesh,2019-01-31,Monthly,3.95,7862286,45.1,Rural,2019,1,Jan
+Madhya Pradesh,2019-02-28,Monthly,4.74,7689498,44.85,Rural,2019,2,Feb
+Madhya Pradesh,2019-03-31,Monthly,4.31,7728408,44.79,Rural,2019,3,Mar
+Madhya Pradesh,2019-04-30,Monthly,5.37,7496003,44.46,Rural,2019,4,Apr
+Madhya Pradesh,2019-05-31,Monthly,5.25,7329332,44.76,Rural,2019,5,May
+Madhya Pradesh,2019-06-30,Monthly,5.28,7317879,44.8,Rural,2019,6,Jun
+Madhya Pradesh,2019-07-31,Monthly,4.91,7498360,45.25,Rural,2019,7,Jul
+Madhya Pradesh,2019-08-31,Monthly,5.82,7465996,44.46,Rural,2019,8,Aug
+Madhya Pradesh,2019-09-30,Monthly,4.43,7509910,44.55,Rural,2019,9,Sep
+Madhya Pradesh,2019-10-31,Monthly,5.01,7462669,45.01,Rural,2019,10,Oct
+Madhya Pradesh,2019-11-30,Monthly,4.37,7653221,45.25,Rural,2019,11,Nov
+Madhya Pradesh,2019-12-31,Monthly,3.71,7905877,44.63,Rural,2019,12,Dec
+Madhya Pradesh,2020-01-31,Monthly,4.39,7717340,45.22,Rural,2020,1,Jan
+Madhya Pradesh,2020-02-29,Monthly,3.91,8031628,45.1,Rural,2020,2,Feb
+Madhya Pradesh,2020-03-31,Monthly,5.57,7558665,45.45,Rural,2020,3,Mar
+Madhya Pradesh,2020-04-30,Monthly,32.33,5570030,36.55,Rural,2020,4,Apr
+Madhya Pradesh,2020-05-31,Monthly,34.17,5601688,35.47,Rural,2020,5,May
+Madhya Pradesh,2020-06-30,Monthly,16.48,5537100,41.6,Rural,2020,6,Jun
+Madhya Pradesh,2020-07-31,Monthly,8.88,6790595,43.65,Rural,2020,7,Jul
+Madhya Pradesh,2020-08-31,Monthly,9.14,6814997,43.68,Rural,2020,8,Aug
+Madhya Pradesh,2020-09-30,Monthly,7.58,6996906,43.69,Rural,2020,9,Sep
+Madhya Pradesh,2020-10-31,Monthly,7.09,7185080,44.34,Rural,2020,10,Oct
+Madhya Pradesh,2019-01-31,Monthly,6.73,14632852,39.16,Urban,2019,1,Jan
+Madhya Pradesh,2019-02-28,Monthly,6.8,14621194,38.82,Urban,2019,2,Feb
+Madhya Pradesh,2019-03-31,Monthly,7.37,14159895,40.1,Urban,2019,3,Mar
+Madhya Pradesh,2019-04-30,Monthly,6.45,14539231,39.45,Urban,2019,4,Apr
+Madhya Pradesh,2019-05-31,Monthly,8.33,13781165,39.57,Urban,2019,5,May
+Madhya Pradesh,2019-06-30,Monthly,7.61,13947163,39.61,Urban,2019,6,Jun
+Madhya Pradesh,2019-07-31,Monthly,7.75,14169213,39.08,Urban,2019,7,Jul
+Madhya Pradesh,2019-08-31,Monthly,7.74,14118078,38.86,Urban,2019,8,Aug
+Madhya Pradesh,2019-09-30,Monthly,6.47,14347660,39.6,Urban,2019,9,Sep
+Madhya Pradesh,2019-10-31,Monthly,6.95,13840744,40.0,Urban,2019,10,Oct
+Madhya Pradesh,2019-11-30,Monthly,6.02,15068935,39.68,Urban,2019,11,Nov
+Madhya Pradesh,2019-12-31,Monthly,5.52,14570763,38.98,Urban,2019,12,Dec
+Madhya Pradesh,2020-01-31,Monthly,6.93,14700620,39.27,Urban,2020,1,Jan
+Madhya Pradesh,2020-02-29,Monthly,6.3,14741661,38.58,Urban,2020,2,Feb
+Madhya Pradesh,2020-03-31,Monthly,7.32,14013538,39.79,Urban,2020,3,Mar
+Madhya Pradesh,2020-04-30,Monthly,29.62,11420646,33.04,Urban,2020,4,Apr
+Madhya Pradesh,2020-05-31,Monthly,26.66,11318382,34.71,Urban,2020,5,May
+Madhya Pradesh,2020-06-30,Monthly,17.3,11263393,37.71,Urban,2020,6,Jun
+Madhya Pradesh,2020-07-31,Monthly,13.3,11363760,38.21,Urban,2020,7,Jul
+Madhya Pradesh,2020-08-31,Monthly,12.57,11525910,37.78,Urban,2020,8,Aug
+Madhya Pradesh,2020-09-30,Monthly,9.11,13566063,39.35,Urban,2020,9,Sep
+Madhya Pradesh,2020-10-31,Monthly,7.88,13722389,38.81,Urban,2020,10,Oct
+Maharashtra,2019-01-31,Monthly,5.83,10338298,38.96,Rural,2019,1,Jan
+Maharashtra,2019-02-28,Monthly,5.33,10137296,38.94,Rural,2019,2,Feb
+Maharashtra,2019-03-31,Monthly,6.35,9659775,38.94,Rural,2019,3,Mar
+Maharashtra,2019-04-30,Monthly,6.7,9713461,38.59,Rural,2019,4,Apr
+Maharashtra,2019-05-31,Monthly,7.44,9384596,39.33,Rural,2019,5,May
+Maharashtra,2019-06-30,Monthly,5.57,9827487,38.24,Rural,2019,6,Jun
+Maharashtra,2019-07-31,Monthly,6.39,9753795,38.0,Rural,2019,7,Jul
+Maharashtra,2019-08-31,Monthly,6.63,10002905,38.63,Rural,2019,8,Aug
+Maharashtra,2019-09-30,Monthly,5.92,9985741,38.5,Rural,2019,9,Sep
+Maharashtra,2019-10-31,Monthly,4.55,10152702,38.69,Rural,2019,10,Oct
+Maharashtra,2019-11-30,Monthly,4.9,10270690,39.42,Rural,2019,11,Nov
+Maharashtra,2019-12-31,Monthly,5.35,9969435,39.02,Rural,2019,12,Dec
+Maharashtra,2020-01-31,Monthly,4.32,10638953,38.83,Rural,2020,1,Jan
+Maharashtra,2020-02-29,Monthly,5.43,9893907,38.76,Rural,2020,2,Feb
+Maharashtra,2020-03-31,Monthly,5.55,9974355,38.63,Rural,2020,3,Mar
+Maharashtra,2020-04-30,Monthly,26.84,7533254,32.57,Rural,2020,4,Apr
+Maharashtra,2020-05-31,Monthly,34.31,7438584,30.47,Rural,2020,5,May
+Maharashtra,2020-06-30,Monthly,15.88,7567804,35.78,Rural,2020,6,Jun
+Maharashtra,2020-07-31,Monthly,12.05,8426990,37.21,Rural,2020,7,Jul
+Maharashtra,2020-08-31,Monthly,8.23,9461192,37.55,Rural,2020,8,Aug
+Maharashtra,2020-09-30,Monthly,8.56,9067940,37.47,Rural,2020,9,Sep
+Maharashtra,2020-10-31,Monthly,7.34,9656278,38.14,Rural,2020,10,Oct
+Maharashtra,2019-01-31,Monthly,7.64,7921870,40.58,Urban,2019,1,Jan
+Maharashtra,2019-02-28,Monthly,8.31,7886794,41.26,Urban,2019,2,Feb
+Maharashtra,2019-03-31,Monthly,8.41,7948206,40.86,Urban,2019,3,Mar
+Maharashtra,2019-04-30,Monthly,8.49,7810650,40.83,Urban,2019,4,Apr
+Maharashtra,2019-05-31,Monthly,8.52,8032092,40.77,Urban,2019,5,May
+Maharashtra,2019-06-30,Monthly,9.65,7525304,41.16,Urban,2019,6,Jun
+Maharashtra,2019-07-31,Monthly,10.34,7390302,40.38,Urban,2019,7,Jul
+Maharashtra,2019-08-31,Monthly,9.0,7845379,40.5,Urban,2019,8,Aug
+Maharashtra,2019-09-30,Monthly,8.2,8038491,40.77,Urban,2019,9,Sep
+Maharashtra,2019-10-31,Monthly,7.8,7840974,40.48,Urban,2019,10,Oct
+Maharashtra,2019-11-30,Monthly,8.59,7814248,40.49,Urban,2019,11,Nov
+Maharashtra,2019-12-31,Monthly,7.98,8138088,40.7,Urban,2019,12,Dec
+Maharashtra,2020-01-31,Monthly,7.68,8008653,41.0,Urban,2020,1,Jan
+Maharashtra,2020-02-29,Monthly,8.72,7792029,40.76,Urban,2020,2,Feb
+Maharashtra,2020-03-31,Monthly,8.0,8026180,40.79,Urban,2020,3,Mar
+Maharashtra,2020-04-30,Monthly,37.64,6640810,32.21,Urban,2020,4,Apr
+Maharashtra,2020-05-31,Monthly,28.62,6574282,34.74,Urban,2020,5,May
+Maharashtra,2020-06-30,Monthly,21.56,6420431,37.57,Urban,2020,6,Jun
+Maharashtra,2020-07-31,Monthly,14.29,6536697,39.12,Urban,2020,7,Jul
+Maharashtra,2020-08-31,Monthly,14.87,6618198,39.01,Urban,2020,8,Aug
+Maharashtra,2020-09-30,Monthly,9.67,7714173,40.17,Urban,2020,9,Sep
+Maharashtra,2020-10-31,Monthly,10.05,7494514,39.74,Urban,2020,10,Oct
+Odisha,2019-01-31,Monthly,3.45,19697669,45.06,Rural,2019,1,Jan
+Odisha,2019-02-28,Monthly,2.79,20613126,45.23,Rural,2019,2,Feb
+Odisha,2019-03-31,Monthly,3.11,19391707,44.96,Rural,2019,3,Mar
+Odisha,2019-04-30,Monthly,4.94,19237017,46.1,Rural,2019,4,Apr
+Odisha,2019-05-31,Monthly,4.04,19894589,45.3,Rural,2019,5,May
+Odisha,2019-06-30,Monthly,4.73,19342537,45.59,Rural,2019,6,Jun
+Odisha,2019-07-31,Monthly,4.34,19685729,44.28,Rural,2019,7,Jul
+Odisha,2019-08-31,Monthly,2.95,20055392,44.82,Rural,2019,8,Aug
+Odisha,2019-09-30,Monthly,3.53,19364847,45.46,Rural,2019,9,Sep
+Odisha,2019-10-31,Monthly,3.93,19064974,45.28,Rural,2019,10,Oct
+Odisha,2019-11-30,Monthly,2.79,19964572,44.9,Rural,2019,11,Nov
+Odisha,2019-12-31,Monthly,3.99,19674723,44.93,Rural,2019,12,Dec
+Odisha,2020-01-31,Monthly,2.22,20877219,45.56,Rural,2020,1,Jan
+Odisha,2020-02-29,Monthly,3.67,19833328,45.05,Rural,2020,2,Feb
+Odisha,2020-03-31,Monthly,4.05,19264231,44.74,Rural,2020,3,Mar
+Odisha,2020-04-30,Monthly,30.22,14364547,37.4,Rural,2020,4,Apr
+Odisha,2020-05-31,Monthly,26.7,14090509,39.06,Rural,2020,5,May
+Odisha,2020-06-30,Monthly,15.07,14450094,41.58,Rural,2020,6,Jun
+Odisha,2020-07-31,Monthly,10.57,16097078,43.64,Rural,2020,7,Jul
+Odisha,2020-08-31,Monthly,8.17,17299377,44.19,Rural,2020,8,Aug
+Odisha,2020-09-30,Monthly,3.97,19938597,43.8,Rural,2020,9,Sep
+Odisha,2020-10-31,Monthly,5.4,18300728,44.49,Rural,2020,10,Oct
+Odisha,2019-01-31,Monthly,5.36,7447649,41.46,Urban,2019,1,Jan
+Odisha,2019-02-28,Monthly,5.19,7770658,41.68,Urban,2019,2,Feb
+Odisha,2019-03-31,Monthly,6.29,7130778,41.63,Urban,2019,3,Mar
+Odisha,2019-04-30,Monthly,6.78,7141546,41.17,Urban,2019,4,Apr
+Odisha,2019-05-31,Monthly,6.76,7065480,42.12,Urban,2019,5,May
+Odisha,2019-06-30,Monthly,5.52,7556182,41.26,Urban,2019,6,Jun
+Odisha,2019-07-31,Monthly,5.91,7534873,40.95,Urban,2019,7,Jul
+Odisha,2019-08-31,Monthly,6.51,7337393,41.74,Urban,2019,8,Aug
+Odisha,2019-09-30,Monthly,5.79,7585102,41.31,Urban,2019,9,Sep
+Odisha,2019-10-31,Monthly,5.5,7739414,41.19,Urban,2019,10,Oct
+Odisha,2019-11-30,Monthly,5.2,7382999,41.85,Urban,2019,11,Nov
+Odisha,2019-12-31,Monthly,5.26,7393709,41.85,Urban,2019,12,Dec
+Odisha,2020-01-31,Monthly,5.74,7632880,41.58,Urban,2020,1,Jan
+Odisha,2020-02-29,Monthly,5.84,7410399,42.46,Urban,2020,2,Feb
+Odisha,2020-03-31,Monthly,5.46,7648871,40.65,Urban,2020,3,Mar
+Odisha,2020-04-30,Monthly,31.39,5700768,34.19,Urban,2020,4,Apr
+Odisha,2020-05-31,Monthly,33.1,5575136,34.0,Urban,2020,5,May
+Odisha,2020-06-30,Monthly,17.58,5660181,37.72,Urban,2020,6,Jun
+Odisha,2020-07-31,Monthly,11.57,6283319,40.11,Urban,2020,7,Jul
+Odisha,2020-08-31,Monthly,10.4,6354449,40.1,Urban,2020,8,Aug
+Odisha,2020-09-30,Monthly,7.03,7028416,40.9,Urban,2020,9,Sep
+Odisha,2020-10-31,Monthly,6.02,7451567,40.92,Urban,2020,10,Oct
+Punjab,2019-01-31,Monthly,3.95,15397785,39.36,Rural,2019,1,Jan
+Punjab,2019-02-28,Monthly,4.72,14618266,40.75,Rural,2019,2,Feb
+Punjab,2019-03-31,Monthly,4.74,14428488,39.92,Rural,2019,3,Mar
+Punjab,2019-04-30,Monthly,4.7,14672450,39.76,Rural,2019,4,Apr
+Punjab,2019-05-31,Monthly,6.17,14187694,39.66,Rural,2019,5,May
+Punjab,2019-06-30,Monthly,5.39,14427707,39.39,Rural,2019,6,Jun
+Punjab,2019-07-31,Monthly,4.44,15282789,39.02,Rural,2019,7,Jul
+Punjab,2019-08-31,Monthly,5.69,14227945,40.27,Rural,2019,8,Aug
+Punjab,2019-09-30,Monthly,4.54,14659961,39.71,Rural,2019,9,Sep
+Punjab,2019-10-31,Monthly,4.52,15052723,39.41,Rural,2019,10,Oct
+Punjab,2019-11-30,Monthly,3.98,15073297,39.3,Rural,2019,11,Nov
+Punjab,2019-12-31,Monthly,3.5,15239448,39.53,Rural,2019,12,Dec
+Punjab,2020-01-31,Monthly,4.06,14698612,39.69,Rural,2020,1,Jan
+Punjab,2020-02-29,Monthly,4.74,14943298,39.59,Rural,2020,2,Feb
+Punjab,2020-03-31,Monthly,4.18,15113658,40.22,Rural,2020,3,Mar
+Punjab,2020-04-30,Monthly,23.78,10981805,34.31,Rural,2020,4,Apr
+Punjab,2020-05-31,Monthly,33.64,11171528,31.26,Rural,2020,5,May
+Punjab,2020-06-30,Monthly,13.34,10855738,37.18,Rural,2020,6,Jun
+Punjab,2020-07-31,Monthly,9.71,12765447,37.62,Rural,2020,7,Jul
+Punjab,2020-08-31,Monthly,8.46,13108456,38.31,Rural,2020,8,Aug
+Punjab,2020-09-30,Monthly,7.51,13789703,39.2,Rural,2020,9,Sep
+Punjab,2020-10-31,Monthly,5.36,14364009,39.53,Rural,2020,10,Oct
+Punjab,2019-01-31,Monthly,7.01,13131636,44.51,Urban,2019,1,Jan
+Punjab,2019-02-28,Monthly,6.91,12756438,44.64,Urban,2019,2,Feb
+Punjab,2019-03-31,Monthly,6.29,13218223,44.78,Urban,2019,3,Mar
+Punjab,2019-04-30,Monthly,8.41,12219292,44.76,Urban,2019,4,Apr
+Punjab,2019-05-31,Monthly,7.93,12230487,43.83,Urban,2019,5,May
+Punjab,2019-06-30,Monthly,8.0,12211024,44.62,Urban,2019,6,Jun
+Punjab,2019-07-31,Monthly,8.11,12529779,44.25,Urban,2019,7,Jul
+Punjab,2019-08-31,Monthly,7.45,12616084,44.23,Urban,2019,8,Aug
+Punjab,2019-09-30,Monthly,8.06,12528686,43.84,Urban,2019,9,Sep
+Punjab,2019-10-31,Monthly,6.25,13539001,44.07,Urban,2019,10,Oct
+Punjab,2019-11-30,Monthly,7.83,12266652,44.13,Urban,2019,11,Nov
+Punjab,2019-12-31,Monthly,6.31,13136183,44.31,Urban,2019,12,Dec
+Punjab,2020-01-31,Monthly,6.64,12643522,44.48,Urban,2020,1,Jan
+Punjab,2020-02-29,Monthly,6.94,12623002,44.16,Urban,2020,2,Feb
+Punjab,2020-03-31,Monthly,6.31,13446303,44.17,Urban,2020,3,Mar
+Punjab,2020-04-30,Monthly,27.13,10369075,38.59,Urban,2020,4,Apr
+Punjab,2020-05-31,Monthly,32.39,10035894,36.15,Urban,2020,5,May
+Punjab,2020-06-30,Monthly,19.55,10158291,40.47,Urban,2020,6,Jun
+Punjab,2020-07-31,Monthly,13.24,10306840,43.22,Urban,2020,7,Jul
+Punjab,2020-08-31,Monthly,10.81,11694346,42.83,Urban,2020,8,Aug
+Punjab,2020-09-30,Monthly,9.8,11513952,43.03,Urban,2020,9,Sep
+Punjab,2020-10-31,Monthly,8.53,12191608,44.75,Urban,2020,10,Oct
+Rajasthan,2019-01-31,Monthly,8.95,14176883,45.49,Rural,2019,1,Jan
+Rajasthan,2019-02-28,Monthly,7.79,14954246,45.0,Rural,2019,2,Feb
+Rajasthan,2019-03-31,Monthly,7.55,15505740,45.14,Rural,2019,3,Mar
+Rajasthan,2019-04-30,Monthly,9.02,14432523,45.23,Rural,2019,4,Apr
+Rajasthan,2019-05-31,Monthly,8.94,14694120,45.15,Rural,2019,5,May
+Rajasthan,2019-06-30,Monthly,9.64,14491138,44.89,Rural,2019,6,Jun
+Rajasthan,2019-07-31,Monthly,9.09,14787869,44.57,Rural,2019,7,Jul
+Rajasthan,2019-08-31,Monthly,9.54,14235710,45.02,Rural,2019,8,Aug
+Rajasthan,2019-09-30,Monthly,7.6,14796150,44.71,Rural,2019,9,Sep
+Rajasthan,2019-10-31,Monthly,7.71,15022740,45.59,Rural,2019,10,Oct
+Rajasthan,2019-11-30,Monthly,9.41,14536913,44.93,Rural,2019,11,Nov
+Rajasthan,2019-12-31,Monthly,7.64,15343410,45.16,Rural,2019,12,Dec
+Rajasthan,2020-01-31,Monthly,8.02,15273671,45.64,Rural,2020,1,Jan
+Rajasthan,2020-02-29,Monthly,7.95,15217937,44.98,Rural,2020,2,Feb
+Rajasthan,2020-03-31,Monthly,9.17,14673312,44.96,Rural,2020,3,Mar
+Rajasthan,2020-04-30,Monthly,27.54,12096202,39.82,Rural,2020,4,Apr
+Rajasthan,2020-05-31,Monthly,35.85,12250169,37.29,Rural,2020,5,May
+Rajasthan,2020-06-30,Monthly,21.18,11986159,41.1,Rural,2020,6,Jun
+Rajasthan,2020-07-31,Monthly,14.04,12420431,43.14,Rural,2020,7,Jul
+Rajasthan,2020-08-31,Monthly,11.57,12831520,44.48,Rural,2020,8,Aug
+Rajasthan,2020-09-30,Monthly,10.88,13247111,44.7,Rural,2020,9,Sep
+Rajasthan,2020-10-31,Monthly,10.62,13879672,44.88,Rural,2020,10,Oct
+Rajasthan,2019-01-31,Monthly,12.24,12465681,44.41,Urban,2019,1,Jan
+Rajasthan,2019-02-28,Monthly,11.57,12759869,44.11,Urban,2019,2,Feb
+Rajasthan,2019-03-31,Monthly,12.48,12916844,44.64,Urban,2019,3,Mar
+Rajasthan,2019-04-30,Monthly,13.37,12122990,45.01,Urban,2019,4,Apr
+Rajasthan,2019-05-31,Monthly,13.65,12358233,44.44,Urban,2019,5,May
+Rajasthan,2019-06-30,Monthly,13.64,11832933,44.8,Urban,2019,6,Jun
+Rajasthan,2019-07-31,Monthly,12.68,12386286,44.46,Urban,2019,7,Jul
+Rajasthan,2019-08-31,Monthly,13.88,12347580,44.52,Urban,2019,8,Aug
+Rajasthan,2019-09-30,Monthly,13.45,12102864,44.69,Urban,2019,9,Sep
+Rajasthan,2019-10-31,Monthly,11.63,13183701,44.71,Urban,2019,10,Oct
+Rajasthan,2019-11-30,Monthly,12.3,12656978,44.88,Urban,2019,11,Nov
+Rajasthan,2019-12-31,Monthly,11.64,13372875,44.9,Urban,2019,12,Dec
+Rajasthan,2020-01-31,Monthly,10.45,13687411,44.84,Urban,2020,1,Jan
+Rajasthan,2020-02-29,Monthly,12.16,12967479,44.84,Urban,2020,2,Feb
+Rajasthan,2020-03-31,Monthly,13.44,12476943,44.38,Urban,2020,3,Mar
+Rajasthan,2020-04-30,Monthly,41.64,11723617,37.58,Urban,2020,4,Apr
+Rajasthan,2020-05-31,Monthly,40.93,11825257,35.87,Urban,2020,5,May
+Rajasthan,2020-06-30,Monthly,22.24,12159056,42.19,Urban,2020,6,Jun
+Rajasthan,2020-07-31,Monthly,17.6,11654593,43.58,Urban,2020,7,Jul
+Rajasthan,2020-08-31,Monthly,16.98,12224248,43.68,Urban,2020,8,Aug
+Rajasthan,2020-09-30,Monthly,14.45,11848256,44.12,Urban,2020,9,Sep
+Rajasthan,2020-10-31,Monthly,12.9,12745209,44.09,Urban,2020,10,Oct
+Tamil Nadu,2019-01-31,Monthly,4.82,20223296,44.26,Rural,2019,1,Jan
+Tamil Nadu,2019-02-28,Monthly,4.56,20383763,45.1,Rural,2019,2,Feb
+Tamil Nadu,2019-03-31,Monthly,5.85,19185385,44.68,Rural,2019,3,Mar
+Tamil Nadu,2019-04-30,Monthly,5.71,20052864,43.98,Rural,2019,4,Apr
+Tamil Nadu,2019-05-31,Monthly,5.74,19595389,44.39,Rural,2019,5,May
+Tamil Nadu,2019-06-30,Monthly,5.92,19904520,44.2,Rural,2019,6,Jun
+Tamil Nadu,2019-07-31,Monthly,5.61,20460815,44.13,Rural,2019,7,Jul
+Tamil Nadu,2019-08-31,Monthly,3.7,20966840,44.32,Rural,2019,8,Aug
+Tamil Nadu,2019-09-30,Monthly,4.67,20299175,43.82,Rural,2019,9,Sep
+Tamil Nadu,2019-10-31,Monthly,5.34,20492109,44.18,Rural,2019,10,Oct
+Tamil Nadu,2019-11-30,Monthly,4.68,20418701,43.86,Rural,2019,11,Nov
+Tamil Nadu,2019-12-31,Monthly,4.03,21047990,44.46,Rural,2019,12,Dec
+Tamil Nadu,2020-01-31,Monthly,3.37,20746272,44.64,Rural,2020,1,Jan
+Tamil Nadu,2020-02-29,Monthly,5.36,19834631,44.64,Rural,2020,2,Feb
+Tamil Nadu,2020-03-31,Monthly,4.28,20945506,44.97,Rural,2020,3,Mar
+Tamil Nadu,2020-04-30,Monthly,25.59,14935756,38.44,Rural,2020,4,Apr
+Tamil Nadu,2020-05-31,Monthly,24.41,14845251,38.3,Rural,2020,5,May
+Tamil Nadu,2020-06-30,Monthly,18.67,15048741,40.01,Rural,2020,6,Jun
+Tamil Nadu,2020-07-31,Monthly,11.35,16101097,43.36,Rural,2020,7,Jul
+Tamil Nadu,2020-08-31,Monthly,9.8,17671214,43.21,Rural,2020,8,Aug
+Tamil Nadu,2020-09-30,Monthly,6.9,19193743,44.16,Rural,2020,9,Sep
+Tamil Nadu,2020-10-31,Monthly,7.47,18409490,43.81,Rural,2020,10,Oct
+Tamil Nadu,2019-01-31,Monthly,7.54,6741440,39.83,Urban,2019,1,Jan
+Tamil Nadu,2019-02-28,Monthly,6.5,6741838,39.54,Urban,2019,2,Feb
+Tamil Nadu,2019-03-31,Monthly,8.24,6776960,39.58,Urban,2019,3,Mar
+Tamil Nadu,2019-04-30,Monthly,8.15,6719146,40.22,Urban,2019,4,Apr
+Tamil Nadu,2019-05-31,Monthly,6.97,6770784,39.75,Urban,2019,5,May
+Tamil Nadu,2019-06-30,Monthly,8.38,6656814,39.47,Urban,2019,6,Jun
+Tamil Nadu,2019-07-31,Monthly,7.92,6838132,40.11,Urban,2019,7,Jul
+Tamil Nadu,2019-08-31,Monthly,8.06,6810965,40.22,Urban,2019,8,Aug
+Tamil Nadu,2019-09-30,Monthly,7.52,6627126,39.86,Urban,2019,9,Sep
+Tamil Nadu,2019-10-31,Monthly,7.02,6892485,40.0,Urban,2019,10,Oct
+Tamil Nadu,2019-11-30,Monthly,7.19,6663129,40.69,Urban,2019,11,Nov
+Tamil Nadu,2019-12-31,Monthly,7.14,6770756,40.58,Urban,2019,12,Dec
+Tamil Nadu,2020-01-31,Monthly,6.25,6936878,40.46,Urban,2020,1,Jan
+Tamil Nadu,2020-02-29,Monthly,7.1,6812368,40.31,Urban,2020,2,Feb
+Tamil Nadu,2020-03-31,Monthly,7.84,6496214,40.37,Urban,2020,3,Mar
+Tamil Nadu,2020-04-30,Monthly,27.16,5542158,34.13,Urban,2020,4,Apr
+Tamil Nadu,2020-05-31,Monthly,32.7,5452085,32.17,Urban,2020,5,May
+Tamil Nadu,2020-06-30,Monthly,17.41,5380899,37.34,Urban,2020,6,Jun
+Tamil Nadu,2020-07-31,Monthly,12.64,5562580,38.7,Urban,2020,7,Jul
+Tamil Nadu,2020-08-31,Monthly,12.65,5586293,38.97,Urban,2020,8,Aug
+Tamil Nadu,2020-09-30,Monthly,10.11,6110724,39.53,Urban,2020,9,Sep
+Tamil Nadu,2020-10-31,Monthly,8.47,6589301,39.69,Urban,2020,10,Oct
+Telangana,2019-01-31,Monthly,7.73,17821932,39.75,Rural,2019,1,Jan
+Telangana,2019-02-28,Monthly,7.62,17359679,39.72,Rural,2019,2,Feb
+Telangana,2019-03-31,Monthly,7.83,17417831,39.85,Rural,2019,3,Mar
+Telangana,2019-04-30,Monthly,8.23,17122344,39.71,Rural,2019,4,Apr
+Telangana,2019-05-31,Monthly,9.09,16106778,40.15,Rural,2019,5,May
+Telangana,2019-06-30,Monthly,8.45,16754481,39.76,Rural,2019,6,Jun
+Telangana,2019-07-31,Monthly,9.38,16040125,39.81,Rural,2019,7,Jul
+Telangana,2019-08-31,Monthly,8.54,16868968,39.49,Rural,2019,8,Aug
+Telangana,2019-09-30,Monthly,7.93,17000747,39.66,Rural,2019,9,Sep
+Telangana,2019-10-31,Monthly,8.45,17438697,39.45,Rural,2019,10,Oct
+Telangana,2019-11-30,Monthly,6.9,18038355,38.88,Rural,2019,11,Nov
+Telangana,2019-12-31,Monthly,6.48,18303552,39.92,Rural,2019,12,Dec
+Telangana,2020-01-31,Monthly,7.96,17057436,38.89,Rural,2020,1,Jan
+Telangana,2020-02-29,Monthly,7.28,17242202,39.81,Rural,2020,2,Feb
+Telangana,2020-03-31,Monthly,7.49,16971179,39.53,Rural,2020,3,Mar
+Telangana,2020-04-30,Monthly,27.36,13776004,33.92,Rural,2020,4,Apr
+Telangana,2020-05-31,Monthly,37.58,14025249,31.49,Rural,2020,5,May
+Telangana,2020-06-30,Monthly,19.82,13835107,36.57,Rural,2020,6,Jun
+Telangana,2020-07-31,Monthly,15.63,13938357,37.65,Rural,2020,7,Jul
+Telangana,2020-08-31,Monthly,13.54,13936543,37.64,Rural,2020,8,Aug
+Telangana,2020-09-30,Monthly,9.68,15857710,39.25,Rural,2020,9,Sep
+Telangana,2020-10-31,Monthly,9.11,16491007,39.47,Rural,2020,10,Oct
+Telangana,2019-01-31,Monthly,12.9,15290358,44.06,Urban,2019,1,Jan
+Telangana,2019-02-28,Monthly,11.88,15964007,44.66,Urban,2019,2,Feb
+Telangana,2019-03-31,Monthly,11.79,15594849,44.61,Urban,2019,3,Mar
+Telangana,2019-04-30,Monthly,13.67,14229893,43.46,Urban,2019,4,Apr
+Telangana,2019-05-31,Monthly,12.89,14806709,44.05,Urban,2019,5,May
+Telangana,2019-06-30,Monthly,14.38,14737666,44.82,Urban,2019,6,Jun
+Telangana,2019-07-31,Monthly,12.51,15102882,44.22,Urban,2019,7,Jul
+Telangana,2019-08-31,Monthly,13.77,14284635,44.72,Urban,2019,8,Aug
+Telangana,2019-09-30,Monthly,13.32,15084199,44.39,Urban,2019,9,Sep
+Telangana,2019-10-31,Monthly,13.33,14951480,43.8,Urban,2019,10,Oct
+Telangana,2019-11-30,Monthly,12.21,15622641,44.16,Urban,2019,11,Nov
+Telangana,2019-12-31,Monthly,12.34,15433979,44.26,Urban,2019,12,Dec
+Telangana,2020-01-31,Monthly,12.55,15054567,43.89,Urban,2020,1,Jan
+Telangana,2020-02-29,Monthly,13.04,14614380,44.81,Urban,2020,2,Feb
+Telangana,2020-03-31,Monthly,14.05,14322653,45.73,Urban,2020,3,Mar
+Telangana,2020-04-30,Monthly,42.77,14621516,36.08,Urban,2020,4,Apr
+Telangana,2020-05-31,Monthly,37.22,14634209,37.62,Urban,2020,5,May
+Telangana,2020-06-30,Monthly,27.33,14171908,40.29,Urban,2020,6,Jun
+Telangana,2020-07-31,Monthly,17.85,14632542,43.59,Urban,2020,7,Jul
+Telangana,2020-08-31,Monthly,17.94,14332386,43.35,Urban,2020,8,Aug
+Telangana,2020-09-30,Monthly,14.52,14335710,44.45,Urban,2020,9,Sep
+Telangana,2020-10-31,Monthly,12.58,15411296,44.03,Urban,2020,10,Oct
+Uttar Pradesh,2019-01-31,Monthly,6.88,20501987,42.11,Rural,2019,1,Jan
+Uttar Pradesh,2019-02-28,Monthly,7.02,20510308,42.48,Rural,2019,2,Feb
+Uttar Pradesh,2019-03-31,Monthly,6.28,20150104,42.81,Rural,2019,3,Mar
+Uttar Pradesh,2019-04-30,Monthly,7.3,20426440,41.97,Rural,2019,4,Apr
+Uttar Pradesh,2019-05-31,Monthly,8.9,18719621,42.62,Rural,2019,5,May
+Uttar Pradesh,2019-06-30,Monthly,9.03,19297556,43.15,Rural,2019,6,Jun
+Uttar Pradesh,2019-07-31,Monthly,8.04,19585337,42.43,Rural,2019,7,Jul
+Uttar Pradesh,2019-08-31,Monthly,7.37,19763213,41.93,Rural,2019,8,Aug
+Uttar Pradesh,2019-09-30,Monthly,6.65,20658572,42.82,Rural,2019,9,Sep
+Uttar Pradesh,2019-10-31,Monthly,6.76,20657428,42.31,Rural,2019,10,Oct
+Uttar Pradesh,2019-11-30,Monthly,6.55,20663131,41.69,Rural,2019,11,Nov
+Uttar Pradesh,2019-12-31,Monthly,6.51,20308470,42.31,Rural,2019,12,Dec
+Uttar Pradesh,2020-01-31,Monthly,6.97,20388300,42.57,Rural,2020,1,Jan
+Uttar Pradesh,2020-02-29,Monthly,6.46,20394576,42.58,Rural,2020,2,Feb
+Uttar Pradesh,2020-03-31,Monthly,7.32,19701451,42.48,Rural,2020,3,Mar
+Uttar Pradesh,2020-04-30,Monthly,29.49,15473507,35.96,Rural,2020,4,Apr
+Uttar Pradesh,2020-05-31,Monthly,32.35,16112478,34.73,Rural,2020,5,May
+Uttar Pradesh,2020-06-30,Monthly,19.49,15788149,38.33,Rural,2020,6,Jun
+Uttar Pradesh,2020-07-31,Monthly,12.0,16868356,40.65,Rural,2020,7,Jul
+Uttar Pradesh,2020-08-31,Monthly,11.95,17242319,41.24,Rural,2020,8,Aug
+Uttar Pradesh,2020-09-30,Monthly,8.35,19449792,41.93,Rural,2020,9,Sep
+Uttar Pradesh,2020-10-31,Monthly,8.32,18791201,42.12,Rural,2020,10,Oct
+Uttar Pradesh,2019-01-31,Monthly,11.59,8767385,46.13,Urban,2019,1,Jan
+Uttar Pradesh,2019-02-28,Monthly,10.5,9098557,45.35,Urban,2019,2,Feb
+Uttar Pradesh,2019-03-31,Monthly,11.44,8801926,45.83,Urban,2019,3,Mar
+Uttar Pradesh,2019-04-30,Monthly,12.6,8354742,46.19,Urban,2019,4,Apr
+Uttar Pradesh,2019-05-31,Monthly,12.29,8370023,45.62,Urban,2019,5,May
+Uttar Pradesh,2019-06-30,Monthly,12.72,8315145,45.7,Urban,2019,6,Jun
+Uttar Pradesh,2019-07-31,Monthly,12.04,8663566,45.89,Urban,2019,7,Jul
+Uttar Pradesh,2019-08-31,Monthly,11.96,8387897,45.65,Urban,2019,8,Aug
+Uttar Pradesh,2019-09-30,Monthly,11.76,8623862,45.8,Urban,2019,9,Sep
+Uttar Pradesh,2019-10-31,Monthly,10.91,9038961,45.08,Urban,2019,10,Oct
+Uttar Pradesh,2019-11-30,Monthly,10.89,8986579,45.69,Urban,2019,11,Nov
+Uttar Pradesh,2019-12-31,Monthly,10.0,9317575,46.0,Urban,2019,12,Dec
+Uttar Pradesh,2020-01-31,Monthly,11.1,8604159,45.95,Urban,2020,1,Jan
+Uttar Pradesh,2020-02-29,Monthly,10.7,8859687,45.44,Urban,2020,2,Feb
+Uttar Pradesh,2020-03-31,Monthly,12.6,8456499,45.6,Urban,2020,3,Mar
+Uttar Pradesh,2020-04-30,Monthly,38.29,8126864,38.08,Urban,2020,4,Apr
+Uttar Pradesh,2020-05-31,Monthly,40.62,8028230,37.05,Urban,2020,5,May
+Uttar Pradesh,2020-06-30,Monthly,24.92,7765943,42.67,Urban,2020,6,Jun
+Uttar Pradesh,2020-07-31,Monthly,16.47,7990703,44.79,Urban,2020,7,Jul
+Uttar Pradesh,2020-08-31,Monthly,16.27,8051994,44.47,Urban,2020,8,Aug
+Uttar Pradesh,2020-09-30,Monthly,15.04,7852009,44.77,Urban,2020,9,Sep
+Uttar Pradesh,2020-10-31,Monthly,12.26,8581315,44.29,Urban,2020,10,Oct
+Uttarakhand,2019-01-31,Monthly,7.19,17541745,37.8,Rural,2019,1,Jan
+Uttarakhand,2019-02-28,Monthly,7.79,17259778,37.74,Rural,2019,2,Feb
+Uttarakhand,2019-03-31,Monthly,8.65,16849547,38.51,Rural,2019,3,Mar
+Uttarakhand,2019-04-30,Monthly,8.28,17625413,39.09,Rural,2019,4,Apr
+Uttarakhand,2019-05-31,Monthly,8.45,17015847,38.32,Rural,2019,5,May
+Uttarakhand,2019-06-30,Monthly,9.45,17135661,38.65,Rural,2019,6,Jun
+Uttarakhand,2019-07-31,Monthly,8.45,17148410,38.64,Rural,2019,7,Jul
+Uttarakhand,2019-08-31,Monthly,7.92,17674278,38.18,Rural,2019,8,Aug
+Uttarakhand,2019-09-30,Monthly,6.89,18068686,38.73,Rural,2019,9,Sep
+Uttarakhand,2019-10-31,Monthly,8.06,17378441,38.73,Rural,2019,10,Oct
+Uttarakhand,2019-11-30,Monthly,6.79,18286120,37.97,Rural,2019,11,Nov
+Uttarakhand,2019-12-31,Monthly,7.24,18094225,38.17,Rural,2019,12,Dec
+Uttarakhand,2020-01-31,Monthly,6.64,18759578,38.52,Rural,2020,1,Jan
+Uttarakhand,2020-02-29,Monthly,8.33,17811199,38.71,Rural,2020,2,Feb
+Uttarakhand,2020-03-31,Monthly,7.94,17765834,39.15,Rural,2020,3,Mar
+Uttarakhand,2020-04-30,Monthly,27.91,14479977,32.75,Rural,2020,4,Apr
+Uttarakhand,2020-05-31,Monthly,29.69,14022589,32.98,Rural,2020,5,May
+Uttarakhand,2020-06-30,Monthly,17.31,14188260,36.13,Rural,2020,6,Jun
+Uttarakhand,2020-07-31,Monthly,12.25,15377057,36.91,Rural,2020,7,Jul
+Uttarakhand,2020-08-31,Monthly,12.22,15047574,37.15,Rural,2020,8,Aug
+Uttarakhand,2020-09-30,Monthly,9.57,16808323,38.29,Rural,2020,9,Sep
+Uttarakhand,2020-10-31,Monthly,10.2,16596654,37.09,Rural,2020,10,Oct
+Uttarakhand,2019-01-31,Monthly,10.23,8307332,43.62,Urban,2019,1,Jan
+Uttarakhand,2019-02-28,Monthly,12.43,7351495,44.5,Urban,2019,2,Feb
+Uttarakhand,2019-03-31,Monthly,11.95,7582629,43.72,Urban,2019,3,Mar
+Uttarakhand,2019-04-30,Monthly,13.16,7196556,43.29,Urban,2019,4,Apr
+Uttarakhand,2019-05-31,Monthly,13.71,7048826,43.52,Urban,2019,5,May
+Uttarakhand,2019-06-30,Monthly,11.69,7503787,43.72,Urban,2019,6,Jun
+Uttarakhand,2019-07-31,Monthly,14.77,7151905,43.17,Urban,2019,7,Jul
+Uttarakhand,2019-08-31,Monthly,12.25,7353488,43.95,Urban,2019,8,Aug
+Uttarakhand,2019-09-30,Monthly,12.67,7610337,44.32,Urban,2019,9,Sep
+Uttarakhand,2019-10-31,Monthly,12.32,7549089,43.75,Urban,2019,10,Oct
+Uttarakhand,2019-11-30,Monthly,12.47,7493431,43.37,Urban,2019,11,Nov
+Uttarakhand,2019-12-31,Monthly,11.9,7845618,43.5,Urban,2019,12,Dec
+Uttarakhand,2020-01-31,Monthly,11.33,7773335,43.59,Urban,2020,1,Jan
+Uttarakhand,2020-02-29,Monthly,11.94,7679393,43.99,Urban,2020,2,Feb
+Uttarakhand,2020-03-31,Monthly,12.14,7548398,43.7,Urban,2020,3,Mar
+Uttarakhand,2020-04-30,Monthly,39.42,6978031,35.57,Urban,2020,4,Apr
+Uttarakhand,2020-05-31,Monthly,35.03,7041678,36.88,Urban,2020,5,May
+Uttarakhand,2020-06-30,Monthly,24.63,7186116,40.89,Urban,2020,6,Jun
+Uttarakhand,2020-07-31,Monthly,16.61,7090399,42.25,Urban,2020,7,Jul
+Uttarakhand,2020-08-31,Monthly,16.28,7117836,42.98,Urban,2020,8,Aug
+Uttarakhand,2020-09-30,Monthly,13.88,7251414,43.87,Urban,2020,9,Sep
+Uttarakhand,2020-10-31,Monthly,14.28,6944055,43.54,Urban,2020,10,Oct
+West Bengal,2019-01-31,Monthly,5.86,18007696,42.77,Rural,2019,1,Jan
+West Bengal,2019-02-28,Monthly,6.64,17464422,43.05,Rural,2019,2,Feb
+West Bengal,2019-03-31,Monthly,7.84,16962635,43.39,Rural,2019,3,Mar
+West Bengal,2019-04-30,Monthly,8.34,15982175,43.41,Rural,2019,4,Apr
+West Bengal,2019-05-31,Monthly,8.6,15962261,42.88,Rural,2019,5,May
+West Bengal,2019-06-30,Monthly,7.24,16622090,42.56,Rural,2019,6,Jun
+West Bengal,2019-07-31,Monthly,7.29,17271397,42.4,Rural,2019,7,Jul
+West Bengal,2019-08-31,Monthly,6.4,16880042,42.98,Rural,2019,8,Aug
+West Bengal,2019-09-30,Monthly,6.28,17717779,43.57,Rural,2019,9,Sep
+West Bengal,2019-10-31,Monthly,7.09,16732656,43.2,Rural,2019,10,Oct
+West Bengal,2019-11-30,Monthly,5.47,18265039,43.32,Rural,2019,11,Nov
+West Bengal,2019-12-31,Monthly,5.17,17705258,43.41,Rural,2019,12,Dec
+West Bengal,2020-01-31,Monthly,6.49,16982267,42.58,Rural,2020,1,Jan
+West Bengal,2020-02-29,Monthly,5.51,17952284,43.21,Rural,2020,2,Feb
+West Bengal,2020-03-31,Monthly,7.15,17195556,43.21,Rural,2020,3,Mar
+West Bengal,2020-04-30,Monthly,27.63,13296033,36.67,Rural,2020,4,Apr
+West Bengal,2020-05-31,Monthly,30.91,13031184,35.38,Rural,2020,5,May
+West Bengal,2020-06-30,Monthly,20.03,13713988,39.24,Rural,2020,6,Jun
+West Bengal,2020-07-31,Monthly,11.69,14371512,41.9,Rural,2020,7,Jul
+West Bengal,2020-08-31,Monthly,12.41,14528508,41.79,Rural,2020,8,Aug
+West Bengal,2020-09-30,Monthly,8.71,15666842,42.12,Rural,2020,9,Sep
+West Bengal,2020-10-31,Monthly,8.16,16225839,43.07,Rural,2020,10,Oct
+West Bengal,2019-01-31,Monthly,10.54,8552711,43.49,Urban,2019,1,Jan
+West Bengal,2019-02-28,Monthly,10.27,8912240,43.67,Urban,2019,2,Feb
+West Bengal,2019-03-31,Monthly,11.02,8700266,43.37,Urban,2019,3,Mar
+West Bengal,2019-04-30,Monthly,10.92,8816677,43.24,Urban,2019,4,Apr
+West Bengal,2019-05-31,Monthly,12.19,8249352,43.04,Urban,2019,5,May
+West Bengal,2019-06-30,Monthly,11.53,8718254,42.68,Urban,2019,6,Jun
+West Bengal,2019-07-31,Monthly,11.0,8672820,43.46,Urban,2019,7,Jul
+West Bengal,2019-08-31,Monthly,11.21,8644868,43.59,Urban,2019,8,Aug
+West Bengal,2019-09-30,Monthly,10.4,8932888,42.97,Urban,2019,9,Sep
+West Bengal,2019-10-31,Monthly,9.4,9379648,43.83,Urban,2019,10,Oct
+West Bengal,2019-11-30,Monthly,9.74,9138441,42.72,Urban,2019,11,Nov
+West Bengal,2019-12-31,Monthly,10.24,8766189,43.77,Urban,2019,12,Dec
+West Bengal,2020-01-31,Monthly,9.98,9016211,42.83,Urban,2020,1,Jan
+West Bengal,2020-02-29,Monthly,10.37,8823128,42.88,Urban,2020,2,Feb
+West Bengal,2020-03-31,Monthly,11.01,8486094,43.42,Urban,2020,3,Mar
+West Bengal,2020-04-30,Monthly,29.38,7856798,38.3,Urban,2020,4,Apr
+West Bengal,2020-05-31,Monthly,38.6,7718097,36.04,Urban,2020,5,May
+West Bengal,2020-06-30,Monthly,19.16,7960057,40.77,Urban,2020,6,Jun
+West Bengal,2020-07-31,Monthly,14.83,7555104,42.26,Urban,2020,7,Jul
+West Bengal,2020-08-31,Monthly,13.45,7980123,42.25,Urban,2020,8,Aug
+West Bengal,2020-09-30,Monthly,12.96,7935731,42.86,Urban,2020,9,Sep
+West Bengal,2020-10-31,Monthly,12.23,8410573,42.63,Urban,2020,10,Oct
